@@ -30,5 +30,5 @@ app.use(function *(next) {
         this.body = 'wrong'
     }
 })
-app.listen(8080)
+app.listen(1234)
 console.log('Listening is 1234')
